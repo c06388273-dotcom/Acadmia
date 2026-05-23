@@ -1,0 +1,6 @@
+{
+  "name": "Academia - School Management System",
+  "description": "School management system with student data management and tuition payment tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
